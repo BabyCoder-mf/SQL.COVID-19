@@ -1,0 +1,3 @@
+This repository features SQL queries analyzing COVID-19 data across East African countries, including Uganda, Kenya, Tanzania, Rwanda, Burundi, South Sudan, Somalia, Ethiopia, Eritrea, and Djibouti. 
+The queries explore various aspects of the pandemic, such as total cases versus population, the likelihood of contracting COVID-19 and associated death percentages, vaccination rates, and health statistics related to smoking and diabetes prevalence. 
+By aggregating and comparing these data points, this analysis aims to provide insights into the pandemic's impact and inform public health strategies in the region.
